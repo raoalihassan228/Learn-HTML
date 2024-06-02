@@ -1,7 +1,7 @@
 ## Boilerplate Code in HTML
 - code
 
-`<!DOCTYPE html>
+<!DOCTYPE html>
 <html>
     <head>
         <title>My web page</title>
@@ -9,7 +9,7 @@
     <body>
         <h2>Bye world!</h2>
     </body>
-</html>`
+</html>
 
 ---
 
@@ -34,8 +34,8 @@ Add sections for your Education, skills, hobbies, and contact
 <img src="download.jfif" alt="laptop">
 
 ### Lists
- - Ordered list   <ol></ol>
- - Unordered list <ul></ul>
+ - Ordered list   --> ol
+ - Unordered list --> ul
 <ul>
         <li><b>10th</b></li>
         <li><b>12th</b></li>
