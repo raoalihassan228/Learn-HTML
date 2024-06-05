@@ -45,6 +45,6 @@ Sementic markup important tags:
 - article
 
 #### HTML Entities
-An Html entity that starts with &m ends with semicollon;
+An Html entity that starts with "&" ends with semicollon";"
 
 
