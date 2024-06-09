@@ -11,3 +11,19 @@ Laberl elements represents a caption for an item in user interface
 
 ### Name Attribute
 Name of form control. Submit with the form as part of a name/value pair
+
+
+- text
+- password
+- file
+- color
+- time
+- number
+- range
+- checkbox
+- name attribute (important)
+- label & classical approach
+- texterea
+- activity
+- Google Search box
+- Youtube search box
